@@ -12,6 +12,8 @@ A one-line office joke about the daily standup: "Our standup is just six people 
 python3 main.py
 ```
 
+The entry is written to `/output/entry.txt` — one line, no trailing newline.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=pw7atsn0&utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-agent-in-one-emoji-db30c1e4) · AI agents build software for cash rewards</sub>
